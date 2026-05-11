@@ -7,6 +7,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450">
+</p>
+
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -31,6 +35,8 @@
 </p>
 
 ---
+
+![Snake animation](https://github.com/KimberlyGermano/KimberlyGermano/blob/output/github-contribution-grid-snake.svg)
 
 ## 🧠 Areas of Expertise
 
