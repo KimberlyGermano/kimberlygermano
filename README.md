@@ -34,7 +34,7 @@
 
 ---
 
-![Snake animation](https://github.com/KimberlyGermano/KimberlyGermano/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 🧠 Areas of Expertise
 
