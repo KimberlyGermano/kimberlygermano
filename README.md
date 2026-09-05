@@ -76,26 +76,6 @@
 
 ---
 
-## 📊 GitHub Stats & Neon Highlights
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kimberlygermano&show_icons=true&theme=synthwave&hide_border=false&border_color=00F0FF&bg_color=0D1117&title_color=00F0FF&icon_color=FF007F&text_color=FFFFFF" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kimberlygermano&theme=synthwave&hide_border=false&border_color=00F0FF&background=0D1117&stroke=00F0FF&ring=FF007F&fire=FF007F&currStreakLabel=00F0FF" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimberlygermano&layout=compact&theme=synthwave&hide_border=false&border_color=00F0FF&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF" alt="Top Languages" />
-</p>
-
----
-
-## 🌐 3D Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kimberlygermano/kimberlygermano/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
-</p>
-
----
 
 ## 🧠 Areas of Expertise
 
